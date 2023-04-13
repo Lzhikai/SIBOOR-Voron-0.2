@@ -24,8 +24,8 @@
 | 15    | Electronics       | C13 Power Cord                                               | 1 PC   |                                     |
 | 16    | Electronics       | AC Inlet （ With Fuse ）                                     | 1 SET  |                                     |
 | 17    | Electronics       | E3D V6 hot end Ceramic heating 60W + Built-in NTC 100K B3950 (Wire length 1.5 meters)  | 1 PC   |                                     |
-| 18    | Electronics       | VHB tape (20mm)                                              | 1 PC   |                                     |
-| 19    | Cables            | 2mmx120mm zip ties                                           | 50 PCS |                                     |
+| 18    | Electronics       | 3M 5952 VHB tape                                              | 1 PC   |                                     |
+| 19    | Cables            | Nylon Cable Ties                                            | 50 PCS |                                     |
 | 20    | Motion            | F623-RS Bearing                                              | 24 PCS |                                     |
 | 21    | Motion            | MGN7H Linear Rail with Carriage (150mm) Stainless steel 440C | 5 PCS  |                                     |
 | 22    | Motion            | GT2 20T (6mm wide) (5mm bore)                                | 2 PCS  |                                     |
@@ -35,7 +35,7 @@
 | 26    | Buildplate        | Silicone DC 24V Heater 100x100mm 75W （Faster heating rate）with plug | 1 PC   |                                     |
 | 27    | Buildplate        | Thermal Fuse (125C)  with plug                               | 1 PC   |                                     |
 | 28    | Buildplate        | Yellow die springs 8x4x20mm                                  | 3 PCS  |                                     |
-| 29    | Buildplate        | PEI Powder Coated Spring Steel Flex Buildplate 120x124mm  notched | 1 PC   |                                     |
+| 29    | Buildplate        | PEI Powder Coated Spring Steel Flex Buildplate 120x124mm     | 1 PC   |                                     |
 | 30    | Buildplate        | Magnetic sheet for spring steel plate 120x120mm              | 1 PC   |                                     |
 | 31    | Panels            | Voron 0.2 acrylic sheet kit (thickness 3mm)                  | 1 SET  |                                     |
 | 32    | Bowden            | Bowden Fitting ECAS04                                        | 2 PCS  |                                     |
