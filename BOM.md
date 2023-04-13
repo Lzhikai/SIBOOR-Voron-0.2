@@ -1,5 +1,5 @@
 # Package list 
-### This list only for reference..  
+### This list only for reference.  
 ### Under special situations, parts will updated to same level and quality products.  
 ### If there has any changes, will update immediately here.
 ## VORON 0.2 Revision 1.1
