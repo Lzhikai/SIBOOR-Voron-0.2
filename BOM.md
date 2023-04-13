@@ -1,4 +1,4 @@
-# SIBOOR-V0.2 Bom list 
+# SIBOOR - 0.2 
 ### This list only for reference.  
 ### Under special situations, parts will updated to same level and quality products.  
 ### If there has any changes, will update immediately here.
