@@ -34,7 +34,7 @@
 | 25    | Buildplate        | Silicone DC 24V Heater 100x100mm 60W （Faster heating rate）with plug | 1 PC   |                                     |
 | 26    | Buildplate        | Thermal Fuse (125C)  with plug                               | 1 PC   |                                     |
 | 27    | Buildplate        | Yellow die springs 8x4x20mm                                  | 3 PCS  |                                     |
-| 28    | Buildplate        | PEI Powder Coated Spring Steel Flex Buildplate 120x124mm     | 1 PC   |                                     |
+| 28    | Buildplate        | PEI Powder Coated Spring Steel Flex Buildplate 120x120mm     | 1 PC   |                                     |
 | 29    | Buildplate        | Magnetic sheet for spring steel plate 120x120mm              | 1 PC   |                                     |
 | 30    | Panels            | Voron 0.2 acrylic sheet kit (thickness 3mm)                  | 1 SET  |                                     |
 | 31    | Bowden            | Bowden Fitting ECAS04                                        | 2 PCS  |                                     |
