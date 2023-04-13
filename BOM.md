@@ -31,7 +31,7 @@
 | 22    | Motion            | GT2 20T (6mm wide) (5mm bore)                                | 2 PCS  |                                     |
 | 23    | Motion            | GATES 6RF Open Belt 6mm GT2 (3 meters)                           | 1 PC   |                                     |
 | 24    | Buildplate        | Aluminum Build Plate (6061) 120x120mm                        | 1 PC   |                                  |
-| 25    | Buildplate        | Silicone DC 24V Heater 100x100mm 75W （Faster heating rate）with plug | 1 PC   |                                     |
+| 25    | Buildplate        | Silicone DC 24V Heater 100x100mm 60W （Faster heating rate）with plug | 1 PC   |                                     |
 | 26    | Buildplate        | Thermal Fuse (125C)  with plug                               | 1 PC   |                                     |
 | 27    | Buildplate        | Yellow die springs 8x4x20mm                                  | 3 PCS  |                                     |
 | 28    | Buildplate        | PEI Powder Coated Spring Steel Flex Buildplate 120x124mm     | 1 PC   |                                     |
