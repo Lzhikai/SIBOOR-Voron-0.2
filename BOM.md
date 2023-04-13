@@ -17,7 +17,7 @@
 | 8     | Electronics       | Voron V0  1.3 inch OLED Display Screen                                             | 1 PC   |                                     |
 | 9     | Electronics       | NEMA14 Stepper Motor 40Ncm | 2 PCS  |                                     |
 | 10    | Electronics       | NEMA17 Stepper Motor with integrated lead screw 200mm | 1 PC   |                                     |
-| 11    | Electronics       | NEMA14 Moon`s 36mm round motor (with 10-tooth gear) | 1 PC   |                                     |
+| 11    | Electronics       | NEMA14 Moon's 36mm round motor (with 10-tooth gear) | 1 PC   |                                     |
 | 12    | Electronics       | 3010 blower fans 24V                                         | 2 PCS  |                                     |
 | 13    | Electronics       | 3010 axial fan 24V                                           | 2 PCS  |                                     |
 | 14    | Electronics       | Micro Switch（With wire）                                    | 1 PC   |                                     |
