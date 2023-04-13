@@ -1,13 +1,13 @@
 # Package list 
-### This list is for reference only.  
-### Under special circumstances, suppliers of the same level and quality may be replaced.  
-### If there are changes, this table will be updated
+### This list only for reference..  
+### Under special situations, parts will updated to same level and quality products.  
+### If there has any changes, will update immediately here.
 ## VORON 0.2 Revision 1.1
 
 
 | Index | Sort              | Component                                                    | Qty    | Note                                |
 | ----- | :---------------- | ------------------------------------------------------------ | ------ | ----------------------------------- |
-| 1     | Fasteners         | Voron V0.2 fasteners Pack                     | 1 SET  |                                     |
+| 1     | Fasteners         | Voron V0.2 fasteners Kit                     | 1 SET  |                                     |
 | 2     | Extruder Hardware | BMG Extruder gear kit(Includes all accessories)              | 1 SET  |                                     |
 | 3     | Frame             | Voron 0.2 1515 aluminum extrusion profile frame kit          | 27 PCS |                                     |
 | 4     | Electronics       | Mornsun LM200-20B24R2                                          | 1 PC   |                                     |
