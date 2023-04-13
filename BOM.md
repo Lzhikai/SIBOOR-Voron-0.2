@@ -30,23 +30,22 @@
 | 21    | Motion            | MGN7H Linear Rail with Carriage (150mm) Stainless steel 440C | 5 PCS  |                                     |
 | 22    | Motion            | GT2 20T (6mm wide) (5mm bore)                                | 2 PCS  |                                     |
 | 23    | Motion            | GATES 6RF Open Belt 6mm GT2 (3 meters)                           | 1 PC   |                                     |
-| 24    | Motion            | flange Nut 8mm Lead                      | 1 PC   |                                     |
-| 25    | Buildplate        | Aluminum Build Plate (6061) 120x120mm                        | 1 PC   |                                  |
-| 26    | Buildplate        | Silicone DC 24V Heater 100x100mm 75W （Faster heating rate）with plug | 1 PC   |                                     |
-| 27    | Buildplate        | Thermal Fuse (125C)  with plug                               | 1 PC   |                                     |
-| 28    | Buildplate        | Yellow die springs 8x4x20mm                                  | 3 PCS  |                                     |
-| 29    | Buildplate        | PEI Powder Coated Spring Steel Flex Buildplate 120x124mm     | 1 PC   |                                     |
-| 30    | Buildplate        | Magnetic sheet for spring steel plate 120x120mm              | 1 PC   |                                     |
-| 31    | Panels            | Voron 0.2 acrylic sheet kit (thickness 3mm)                  | 1 SET  |                                     |
-| 32    | Bowden            | Bowden Fitting ECAS04                                        | 2 PCS  |                                     |
-| 33    | Bowden            | Bowden Tubing 4x2mm  (1 meter)                               | 1 PC   |                                     |
-| 34    | Bowden            | Bowden Tubing 4x3mm  (1 meter)                               | 1 PC   |                                     |
-| 35    | Misc              | Tank Chain 7x7mm                                             | 1 PC   |                                     |
-| 36    | Misc              | Little Rubber Feet (14x11x11mm)                              | 4 PCS  |                                     |
-| 37    | Misc              | XH2.54 2/3/4 Pin Plastic shell                               | 1 SET  |                                     |
-| 38    | Misc              | 6mm x 3mm Round Neodymium Magnets                            | 8 PCS  |                                     |
-| 39    | Misc              | Weaving casing φ8mm length 1000mm                            | 1 SET  |                                     |
-| 40    | Misc              | VORON V0  Rail retainer                                      | 1 PC   |                                     |
-| 41    | Tools             | Hexagonal wrenchs                                            | 1 SET  |                                     |
-| 42    | Misc              | SIBOOR Voron V0.2 Wiring manual                              | 1 SET  |                                     |
-| 43    | Printouts         | Full set of prints（Esun ABS+）                              | 1 PCS  |                                     |
+| 24    | Buildplate        | Aluminum Build Plate (6061) 120x120mm                        | 1 PC   |                                  |
+| 25    | Buildplate        | Silicone DC 24V Heater 100x100mm 75W （Faster heating rate）with plug | 1 PC   |                                     |
+| 26    | Buildplate        | Thermal Fuse (125C)  with plug                               | 1 PC   |                                     |
+| 27    | Buildplate        | Yellow die springs 8x4x20mm                                  | 3 PCS  |                                     |
+| 28    | Buildplate        | PEI Powder Coated Spring Steel Flex Buildplate 120x124mm     | 1 PC   |                                     |
+| 29    | Buildplate        | Magnetic sheet for spring steel plate 120x120mm              | 1 PC   |                                     |
+| 30    | Panels            | Voron 0.2 acrylic sheet kit (thickness 3mm)                  | 1 SET  |                                     |
+| 31    | Bowden            | Bowden Fitting ECAS04                                        | 2 PCS  |                                     |
+| 32    | Bowden            | Bowden Tubing 4x2mm  (1 meter)                               | 1 PC   |                                     |
+| 33    | Bowden            | Bowden Tubing 4x3mm  (1 meter)                               | 1 PC   |                                     |
+| 34    | Misc              | Tank Chain 7x7mm                                             | 1 PC   |                                     |
+| 35    | Misc              | Little Rubber Feet (14x11x11mm)                              | 4 PCS  |                                     |
+| 36    | Misc              | XH2.54 2/3/4 Pin Plastic shell                               | 1 SET  |                                     |
+| 37    | Misc              | 6mm x 3mm Round Neodymium Magnets                            | 8 PCS  |                                     |
+| 38    | Misc              | Weaving casing φ8mm length 1000mm                            | 1 SET  |                                     |
+| 39    | Misc              | VORON V0  Rail retainer                                      | 1 PC   |                                     |
+| 40    | Tools             | Hexagonal wrenchs                                            | 1 SET  |                                     |
+| 41    | Misc              | SIBOOR Voron V0.2 Wiring manual                              | 1 SET  |                                     |
+| 42    | Printouts         | Full set of prints（Esun ABS+）                              | 1 PCS  |                                     |
