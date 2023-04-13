@@ -27,13 +27,13 @@
 | 18    | Electronics       | 3M 5952 VHB tape                                              | 1 PC   |                                     |
 | 19    | Cables            | Nylon Cable Ties                                            | 50 PCS |                                     |
 | 20    | Motion            | F623-RS Bearing                                              | 24 PCS |                                     |
-| 21    | Motion            | MGN7H Linear Rail with Carriage (150mm) Stainless steel 440C | 5 PCS  |                                     |
+| 21    | Motion            | MGN7H Linear Rail with Carriage (150mm)  Alloy steel, nickel plated | 5 PCS  |                                     |
 | 22    | Motion            | GT2 20T (6mm wide) (5mm bore)                                | 2 PCS  |                                     |
 | 23    | Motion            | GATES 6RF Open Belt 6mm GT2 (3 meters)                           | 1 PC   |                                     |
 | 24    | Buildplate        | Aluminum Build Plate (6061) 120x120mm                        | 1 PC   |                                  |
 | 25    | Buildplate        | Silicone DC 24V Heater 100x100mm 60W （Faster heating rate）with plug | 1 PC   |                                     |
 | 26    | Buildplate        | Thermal Fuse (125C)  with plug                               | 1 PC   |                                     |
-| 27    | Buildplate        | Yellow die springs 8x20mm                                  | 3 PCS  |                                     |
+| 27    | Buildplate        | Yellow die springs 8x4x20mm                                  | 3 PCS  |                                     |
 | 28    | Buildplate        | PEI Powder Coated Spring Steel Flex Buildplate 120x124mm     | 1 PC   |                                     |
 | 29    | Buildplate        | Magnetic sheet for spring steel plate 120x120mm              | 1 PC   |                                     |
 | 30    | Panels            | Voron 0.2 acrylic sheet kit (thickness 3mm)                  | 1 SET  |                                     |
