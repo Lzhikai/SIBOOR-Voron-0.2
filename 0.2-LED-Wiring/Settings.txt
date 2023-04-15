@@ -1,3 +1,0 @@
-[output_pin LED]
-pin !PB1
-pwm False
