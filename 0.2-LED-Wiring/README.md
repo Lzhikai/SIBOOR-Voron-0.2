@@ -1,4 +1,18 @@
 ## Setting the LED switch：
+
+### Install the LED Effects Library
+This will install the LED Effects for Klipper plugin from [here](https://github.com/julianschill/klipper-led_effect)
+
+SSH into your Fly Gemini
+
+```shell
+cd ~
+git clone https://github.com/julianschill/klipper-led_effect.git
+cd klipper-led_effect
+./install-led_effect.sh
+```
+
+
 ### Add to printer.cfg  
 ```
 [output_pin LED]
