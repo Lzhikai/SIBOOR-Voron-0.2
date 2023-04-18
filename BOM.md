@@ -48,4 +48,4 @@
 | 39    | Misc              | VORON V0  Rail retainer                                      | 1 PC   |                                     |
 | 40    | Tools             | Hexagonal wrenchs                                            | 1 SET  |                                     |
 | 41    | Misc              | SIBOOR Voron V0.2 Wiring manual                              | 1 SET  |                                     |
-| 42    | Printouts         | Full set of prints（Esun ABS+）                              | 1 PCS  |                                     |
+| 42    | Printouts         | Full set of prints（Esun ABS+ or SUNLU ABS）                              | 1 PCS  |                                     |
