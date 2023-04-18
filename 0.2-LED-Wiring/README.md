@@ -5,6 +5,10 @@ This will install the LED Effects for Klipper plugin from [here](https://github.
 
 SSH into your Fly Gemini
 
+account : ```fly```  
+password : ```mellow```  
+
+
 ```shell
 cd ~
 git clone https://github.com/julianschill/klipper-led_effect.git
