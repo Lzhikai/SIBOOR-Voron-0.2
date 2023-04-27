@@ -11,7 +11,7 @@
 | other            | One out two fan extension cable（PTFE）                        | /          | 1   | 4/21/23     |
 | other            | Black M3 Metal Internal Thread Stud                          | /          | 2   | 4/1/23      |
 | other            | Allen wrench (one M2/M3 each)                                | /          | 1   | 3/1/23      |
-| Fasteners        | 3x6x0.5 Shim Washer                                          | /          | 55  | 3/1/23      |
+| Fasteners        | 3x6x0.5 Shim Washer                                          | /          | 55  | 4/17/23     |
 | Fasteners        | M2 Nut                                                       | /          | 64  | 3/1/23      |
 | Fasteners        | M3 Nut                                                       | /          | 161 | 3/1/23      |
 | Fasteners        | M2x6 SHCS                                                    | /          | 81  | 3/1/23      |
@@ -20,7 +20,7 @@
 | Fasteners        | M3x6 BHCS                                                    | /          | 54  | 3/1/23      |
 | Fasteners        | M3x8 BHCS                                                    | /          | 133 | 3/1/23      |
 | Fasteners        | M3x8 FHCS                                                    | /          | 6   | 3/1/23      |
-| Fasteners        | M3x10 BHCS                                                   | /          | 50  | 3/1/23      |
+| Fasteners        | M3x10 BHCS                                                   | /          | 50  | 4/17/23     |
 | Fasteners        | M3x12 BHCS                                                   | /          | 29  | 3/1/23      |
 | Fasteners        | M3x16 BHCS                                                   | /          | 12  | 3/1/23      |
 | Fasteners        | M3x25 BHCS                                                   | /          | 12  | 3/1/23      |
@@ -63,13 +63,13 @@
 | Motion           | Silicone DC 24V Heater 100x100mm 60W                         | SIBOOR     | 1   | 3/1/23      |
 | Buildplate       | PEI + 3M 468MP (200MP)                                       | SIBOOR     | 1   | 3/1/23      |
 | Panels           | Acrylic Sheet Clear - 212x230x3mm                            | /          | 2   | 3/1/23      |
-| Panels           | Acrylic Sheet Clear - 212x239x3mm                            |            | 1   | 3/1/23      |
-| Panels           | Upper Rear Panel 212x63x3mm                                  |            | 1   | 3/1/23      |
-| Panels           | Lower Rear Panel 212x185x3mm                                 |            | 1   | 3/1/23      |
-| Panels           | Deck Panel 3mm thick (See DXF)                               |            | 1   | 3/1/23      |
-| Panels           | Motor Panel 3mm thick (See DXF)                              |            | 1   | 3/1/23      |
-| Panels           | Bottom Panel 3mm thick (See DXF)                             |            | 1   | 3/1/23      |
-| Panels           | Mid Panel 3mm thick (See DXF)                                |            | 1   | 3/1/23      |
+| Panels           | Acrylic Sheet Clear - 212x239x3mm                            | /          | 1   | 3/1/23      |
+| Panels           | Upper Rear Panel 212x63x3mm                                  | /          | 1   | 3/1/23      |
+| Panels           | Lower Rear Panel 212x185x3mm                                 | /          | 1   | 3/1/23      |
+| Panels           | Deck Panel 3mm thick (See DXF)                               | /          | 1   | 3/1/23      |
+| Panels           | Motor Panel 3mm thick (See DXF)                              | /          | 1   | 3/1/23      |
+| Panels           | Bottom Panel 3mm thick (See DXF)                             | /          | 1   | 3/1/23      |
+| Panels           | Mid Panel 3mm thick (See DXF)                                | /          | 1   | 3/1/23      |
 | Misc.            | Bowden Tube 4x2mm - 1m                                       | /          | 1   | 3/1/23      |
 | Misc.            | Bowden Tube 4x3mm - 1m                                       | /          | 1   | 3/1/23      |
 | Extrusion Tophat | Top Panel 212x212mm                                          | /          | 1   | 3/1/23      |
@@ -77,4 +77,5 @@
 | Extrusion Tophat |  EXTRUSION 15x15 200mm                                       | SIBOOR     | 4   | 3/1/23      |
 | Extrusion Tophat |   EXTRUSION15x15×80mm                                        | SIBOOR     | 4   | 3/1/23      |
 | Extrusion Tophat | Full set of prints（ABS）                                      | SUNLU/ESUN | 1   | 4/20/23     |
+
 
