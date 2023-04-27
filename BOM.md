@@ -5,47 +5,76 @@
 ## VORON 0.2 Revision 1.1
 
 
-| Index | Sort              | Component                                                    | Qty    | Note                                |
-| ----- | :---------------- | ------------------------------------------------------------ | ------ | ----------------------------------- |
-| 1     | Fasteners         | Voron V0.2 fasteners Kit                     | 1 SET  |                                     |
-| 2     | Extruder Hardware | BMG Extruder gear kit(Includes all accessories)              | 1 SET  |                                     |
-| 3     | Frame             | Voron 0.2 1515 aluminum extrusion profile frame kit          | 27 PCS |                                     |
-| 4     | Electronics       | Mornsun LM200-20B24R2                                          | 1 PC   |                                     |
-| 5     | Electronics       | FLY Gemini V3                                          | 1 PC   |                                     |
-| 6     | Electronics       | Sandisk MicroSD Card 32G                       | 1 PC   |                                     |
-| 7     | Electronics       | USB WIFI module                                          | 1 PC   |                             |
-| 8     | Electronics       | Voron V0  1.3 inch OLED Display Screen                                             | 1 PC   |                                     |
-| 9     | Electronics       | NEMA14 Stepper Motor 40Ncm | 2 PCS  |                                     |
-| 10    | Electronics       | NEMA17 Stepper Motor with integrated lead screw 200mm (T8x8) | 1 PC   |                                     |
-| 11    | Electronics       | NEMA14 Moon's 36mm round motor (with 10-tooth gear) | 1 PC   |                                     |
-| 12    | Electronics       | 3010 blower fans 24V                                         | 2 PCS  |                                     |
-| 13    | Electronics       | 3010 axial fan 24V                                           | 2 PCS  |                                     |
-| 14    | Electronics       | Micro Switch（With wire）                                    | 1 PC   |                                     |
-| 15    | Electronics       | C13 Power Cord                                               | 1 PC   |                                     |
-| 16    | Electronics       | AC Inlet （ With Fuse ）                                     | 1 SET  |                                     |
-| 17    | Electronics       | E3D V6 hot end Ceramic heating 60W + Built-in NTC 100K B3950 (Wire length 1.5 meters)  | 1 PC   |                                     |
-| 18    | Electronics       | 3M 5952 VHB tape                                              | 1 PC   |                                     |
-| 19    | Cables            | Nylon Cable Ties                                            | 50 PCS |                                     |
-| 20    | Motion            | F623-RS Bearing                                              | 24 PCS |                                     |
-| 21    | Motion            | MGN7H Linear Rail with Carriage (150mm)  Alloy steel, nickel plated | 5 PCS  |                                     |
-| 22    | Motion            | GT2 20T (6mm wide) (5mm bore)                                | 2 PCS  |                                     |
-| 23    | Motion            | GATES 6RF Open Belt 6mm GT2 (3 meters)                           | 1 PC   |                                     |
-| 24    | Buildplate        | Aluminum Build Plate (6061) 120x120mm                        | 1 PC   |                                  |
-| 25    | Buildplate        | Silicone DC 24V Heater 100x100mm 60W （Faster heating rate）with plug | 1 PC   |                                     |
-| 26    | Buildplate        | Thermal Fuse (125C)  with plug                               | 1 PC   |                                     |
-| 27    | Buildplate        | Yellow die springs 8x4x20mm                                  | 3 PCS  |                                     |
-| 28    | Buildplate        | PEI Powder Coated Spring Steel Flex Buildplate 120x120mm     | 1 PC   |                                     |
-| 29    | Buildplate        | Magnetic sheet for spring steel plate 120x120mm              | 1 PC   |                                     |
-| 30    | Panels            | Voron 0.2 acrylic sheet kit (thickness 3mm)                  | 1 SET  |                                     |
-| 31    | Bowden            | Bowden Fitting ECAS04                                        | 2 PCS  |                                     |
-| 32    | Bowden            | Bowden Tubing 4x2mm  (1 meter)                               | 1 PC   |                                     |
-| 33    | Bowden            | Bowden Tubing 4x3mm  (1 meter)                               | 1 PC   |                                     |
-| 34    | Misc              | Tank Chain 7x7mm                                             | 1 PC   |                                     |
-| 35    | Misc              | Little Rubber Feet (14x11x11mm)                              | 4 PCS  |                                     |
-| 36    | Misc              | XH2.54 2/3/4 Pin Plastic shell                               | 1 SET  |                                     |
-| 37    | Misc              | 6mm x 3mm Round Neodymium Magnets                            | 8 PCS  |                                     |
-| 38    | Misc              | Weaving casing φ8mm length 1000mm                            | 1 SET  |                                     |
-| 39    | Misc              | VORON V0  Rail retainer                                      | 1 PC   |                                     |
-| 40    | Tools             | Hexagonal wrenchs                                            | 1 SET  |                                     |
-| 41    | Misc              | SIBOOR Voron V0.2 Wiring manual                              | 1 SET  |                                     |
-| 42    | Printouts         | Full set of prints（Esun ABS+ or SUNLU ABS）                              | 1 PCS  |                                     |
+| Category         | Description                                                  | brand      | Qty | update time |
+|------------------|--------------------------------------------------------------|------------|-----|-------------|
+| other            | Mini Stealthburner LED light（2 meters with PTFE leads）       | SIBOOR     | 1   | 4/19/23     |
+| other            | One out two fan extension cable（PTFE）                        | /          | 1   | 4/21/23     |
+| other            | Black M3 Metal Internal Thread Stud                          | /          | 2   | 4/1/23      |
+| other            | Allen wrench (one M2/M3 each)                                | /          | 1   | 3/1/23      |
+| Fasteners        | 3x6x0.5 Shim Washer                                          | /          | 55  | 3/1/23      |
+| Fasteners        | M2 Nut                                                       | /          | 64  | 3/1/23      |
+| Fasteners        | M3 Nut                                                       | /          | 161 | 3/1/23      |
+| Fasteners        | M2x6 SHCS                                                    | /          | 81  | 3/1/23      |
+| Fasteners        | M2x6 FHCS                                                    | /          | 12  | 3/1/23      |
+| Fasteners        | M2x8 SHCS                                                    | /          | 12  | 3/1/23      |
+| Fasteners        | M3x6 BHCS                                                    | /          | 54  | 3/1/23      |
+| Fasteners        | M3x8 BHCS                                                    | /          | 133 | 3/1/23      |
+| Fasteners        | M3x8 FHCS                                                    | /          | 6   | 3/1/23      |
+| Fasteners        | M3x10 BHCS                                                   | /          | 50  | 3/1/23      |
+| Fasteners        | M3x12 BHCS                                                   | /          | 29  | 3/1/23      |
+| Fasteners        | M3x16 BHCS                                                   | /          | 12  | 3/1/23      |
+| Fasteners        | M3x25 BHCS                                                   | /          | 12  | 3/1/23      |
+| Fasteners        | M3x30 BHCS                                                   | /          | 12  | 3/1/23      |
+| Fasteners        | M3x35 BHCS                                                   | /          | 35  | 3/1/23      |
+| Fasteners        | M3x40 BHCS                                                   | /          | 12  | 3/1/23      |
+| Fasteners        | M2x10 Self Tapping Screws for Plastic                        | /          | 35  | 3/1/23      |
+| Fasteners        | M3 Brass heatstake inserts - short M3x5x4                    | /          | 58  | 3/1/23      |
+| Fasteners        | M3 t-nut                                                     | /          | 2   | 3/1/23      |
+| Fasteners        | F623-RS Bearing                                              | /          | 24  | 3/1/23      |
+| Fasteners        | yellow die springs 8x4x20mm                                  | /          | 3   | 3/1/23      |
+| Fasteners        | Little Rubber Feet                                           | /          | 4   | 3/1/23      |
+| Fasteners        | 6mm x 3mm Round Neodymium Magnets                            | /          | 8   | 3/1/23      |
+| Fasteners        | Hexagonal nylon screw post                                   | /          | 4   | 3/1/23      |
+| Fasteners        | BMG Extruder Kit（30 teeth reduction gear is FYS CNC version） | /          | 1   | 4/19/23     |
+| Frame            |  EXTRUSION 15x15 200mm                                       | SIBOOR     | 16  | 3/1/23      |
+| Frame            |  EXTRUSION 15x15 100mm                                       | SIBOOR     | 3   | 3/1/23      |
+| Electronics      |  LM200-20B24R2 200W Power                                    |  Mornsun   | 1   | 3/1/23      |
+| Electronics      | Gemini V3 board                                              | Mellow     | 1   | 3/1/23      |
+| Electronics      | SanDisk MicroSD Card 32GB                                    | Sandisk    | 1   | 3/1/23      |
+| Electronics      | USB WIFI module                                              | Tencent    | 1   | 3/1/23      |
+| Electronics      | NEMA14 Stepper Motor 40Ncm                                   | SIBOOR     | 2   | 3/1/23      |
+| Electronics      | NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8     | SIBOOR     | 1   | 3/1/23      |
+| Electronics      | NEMA14 36mm pancake Motor with 10 tooth gear                 | MOON‘S     | 1   | 3/1/23      |
+| Electronics      | 3010 blower fans 24V                                         | GEEK       | 2   | 3/1/23      |
+| Electronics      | 3010 axial fan 24V                                           | GEEK       | 2   | 3/1/23      |
+| Electronics      | Micro Switch                                                 | /          | 1   | 3/1/23      |
+| Electronics      | C13 Power Cord                                               | /          | 1   | 3/1/23      |
+| Electronics      | IEC320 C14 inlet                                             | /          | 1   | 3/1/23      |
+| Electronics      | CHC V6 Hotend                                                | SIBOOR     | 1   | 3/1/23      |
+| Electronics      | V0-Display                                                   | SIBOOR     | 1   | 3/1/23      |
+| Electronics      | 3M 5952 VHB tape                                             | /          | 1   | 3/1/23      |
+| Electronics      | High Flex Wire 20gauge                                       | /          | 2   | 3/1/23      |
+| Electronics      | 7mm x 7mm cable chain (less than 1/2 meter needed)           | /          | 1   | 3/1/23      |
+| Electronics      | ADXL345                                                      | SIBOOR     | 1   | 3/1/23      |
+| Electronics      | Nylon Cable Ties (1.8mm wide or smaller)                     | /          | 50  | 3/1/23      |
+| Motion           | MGN7H Linear Rail with Carriage - 150mm(nickel plated)       | SIBOOR     | 5   | 4/1/23      |
+| Motion           | GT2 20T (5mm ID 6mm W)                                       | SIBOOR     | 2   | 3/1/23      |
+| Motion           | GT2 Open Belt (6mm W) - 3000mm                               | GATES      | 3   | 3/1/23      |
+| Motion           | Silicone DC 24V Heater 100x100mm 60W                         | SIBOOR     | 1   | 3/1/23      |
+| Buildplate       | PEI + 3M 468MP (200MP)                                       | SIBOOR     | 1   | 3/1/23      |
+| Panels           | Acrylic Sheet Clear - 212x230x3mm                            | /          | 2   | 3/1/23      |
+| Panels           | Acrylic Sheet Clear - 212x239x3mm                            |            | 1   | 3/1/23      |
+| Panels           | Upper Rear Panel 212x63x3mm                                  |            | 1   | 3/1/23      |
+| Panels           | Lower Rear Panel 212x185x3mm                                 |            | 1   | 3/1/23      |
+| Panels           | Deck Panel 3mm thick (See DXF)                               |            | 1   | 3/1/23      |
+| Panels           | Motor Panel 3mm thick (See DXF)                              |            | 1   | 3/1/23      |
+| Panels           | Bottom Panel 3mm thick (See DXF)                             |            | 1   | 3/1/23      |
+| Panels           | Mid Panel 3mm thick (See DXF)                                |            | 1   | 3/1/23      |
+| Misc.            | Bowden Tube 4x2mm - 1m                                       | /          | 1   | 3/1/23      |
+| Misc.            | Bowden Tube 4x3mm - 1m                                       | /          | 1   | 3/1/23      |
+| Extrusion Tophat | Top Panel 212x212mm                                          | /          | 1   | 3/1/23      |
+| Extrusion Tophat | Side Panels 212x71mm                                         | /          | 4   | 3/1/23      |
+| Extrusion Tophat |  EXTRUSION 15x15 200mm                                       | SIBOOR     | 4   | 3/1/23      |
+| Extrusion Tophat |   EXTRUSION15x15×80mm                                        | SIBOOR     | 4   | 3/1/23      |
+| Extrusion Tophat | Full set of prints（ABS）                                      | SUNLU/ESUN | 1   | 4/20/23     |
+
