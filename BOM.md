@@ -50,7 +50,6 @@
 | Electronics      | NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8     | SIBOOR              | 1   | 3/1/23      |
 | Electronics      | NEMA14 36mm pancake Motor with 10 tooth gear                 | MOON‘S              | 1   | 3/1/23      |
 | Electronics      | 3010 blower fans 24V                                         | GEEK                | 2   | 3/1/23      |
-| Electronics      | One-two fan cable (PTFE)                                     | SIBOOR              |     |             |
 | Electronics      | 3010 axial fan 24V                                           | GEEK                | 2   | 3/1/23      |
 | Electronics      | Micro Switch with cable                                      | /                   | 1   | 3/1/23      |
 | Electronics      | C13 Power Cord                                               | /                   | 1   | 3/1/23      |
