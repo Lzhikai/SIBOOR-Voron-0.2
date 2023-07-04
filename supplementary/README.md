@@ -1,4 +1,5 @@
 # This guide covers the differences between the SIBOOR 0.2kit and the original VORON0.2 tutorial, and includes instructions on wiring and debugging.
+# The supplement also contains the differences section of Siboor V0.2. updated 2023/7/4
 # You can download and view the official PDF assembly tutorial of VORON here：[Voron-0.2/Manuals](https://github.com/VoronDesign/Voron-0/tree/Voron0.2/Manuals)  · GitHub
 ***Github SIBOOR V0.1 kit assembly manual instruction.***
 
