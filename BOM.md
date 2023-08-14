@@ -39,7 +39,7 @@
 | Fasteners        | Little Rubber Feet                                           | /                   | 4   | 3/1/23      |
 | Fasteners        | 6mm x 3mm Round Neodymium Magnets                            | /                   | 8   | 3/1/23      |
 | Fasteners        | Hexagonal nylon screw post                                   | /                   | 4   | 3/1/23      |
-| Fasteners        | BMG Extruder Kit（30 teeth reduction gear is FYS CNC version） | /                   | 1   | 4/19/23     |
+| Fasteners        | BMG Extruder Kit（30 teeth reduction gear is SIboor CNC version） | /                   | 1   | 8/1/23     |
 | Frame            | EXTRUSION 15x15 200mm                                        | SIBOOR              | 16  | 3/1/23      |
 | Frame            | EXTRUSION 15x15 100mm                                        | SIBOOR              | 3   | 3/1/23      |
 | Electronics      | LM200-20B24R2 200W Power                                     |  Mornsun            | 1   | 3/1/23      |
@@ -61,7 +61,7 @@
 | Electronics      | High Flex Wire 20gauge                                       | /                   | 2   | 3/1/23      |
 | Electronics      | 7mm x 7mm cable chain (less than 1/2 meter needed)           | /                   | 1   | 3/1/23      |
 | Electronics      | ADXL345                                                      | SIBOOR              | 1   | 3/1/23      |
-| Electronics      | ADXL345 PTFE cable 0.5M                                      | SIBOOR              | 1   | 7/3/23      |
+| Electronics      | PTFE cable 0.5M                                      | SIBOOR              | 1   | 7/3/23      |
 | Electronics      | Nylon Cable Ties (1.8mm wide or smaller)                     | /                   | 50  | 3/1/23      |
 | Motion           | MGN7H Linear Rail with Carriage - 150mm(nickel plated)       | SIBOOR              | 5   | 4/1/23      |
 | Motion           | GT2 20T (5mm ID 6mm W)                                       | SIBOOR              | 2   | 3/1/23      |
